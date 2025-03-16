@@ -1,0 +1,11 @@
+curl --location 'https://graph.facebook.com/61572979611286/picture?type=normal&redirect=false' \
+--header 'accept: */*' \
+--header 'accept-language: vi-VN,vi;q=0.9,fr-FR;q=0.8,fr;q=0.7,en-US;q=0.6,en;q=0.5' \
+--header 'priority: u=1, i' \
+--header 'sec-ch-ua: "Chromium";v="134", "Not:A-Brand";v="24", "Google Chrome";v="134"' \
+--header 'sec-ch-ua-mobile: ?0' \
+--header 'sec-ch-ua-platform: "Windows"' \
+--header 'sec-fetch-dest: empty' \
+--header 'sec-fetch-mode: cors' \
+--header 'sec-fetch-site: cross-site' \
+--header 'user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36'
